@@ -11,16 +11,16 @@
   ],
   "skills": [
     {
-      "id":1,"name":"Python, Ruby on rails Php, laravel, Flask","rate":"79","desc": "tingkat lanjut"
+      "id":1,"name":"Python, Ruby on rails Php, laravel, Flask","rate":"80","desc": "tingkat lanjut"
     },
     {
       "id":2,"name":"Mysql, Sql, NoSql, JSON, API","rate":"72", "desc":"tingkat lanjut"
     },
     {
-      "id":3,"name":".Net, Java","rate":"40","desc":"tingkat pemula"
+      "id":3,"name":".Net, Java","rate":"41","desc":"tingkat pemula"
     },
     {
-      "id":4,"name":"Git, Ionic, React Native, ReactJS, VueJS, NPM","rate":"68","desc":"tingkat lanjut" 
+      "id":4,"name":"Git, Ionic, React Native, ReactJS, VueJS, NPM","rate":"65","desc":"tingkat lanjut" 
     }
   ],
   "project": [
