@@ -3,6 +3,41 @@
     {"name":"Liandi haikal","born":"Medan, 1 September 1999","address":"Jl.Bejo Gg.Anggrek Bulan 3 Laut Dendang", "sex": "Laki -Laki", "religion": "Islam", "status": "Belum Menikah", "height": "170 cm / 80 kg", "phone": "082276366690", "email": "simdigliandi@gmail.com"}
   ],
   "collage": [
-    {"name":"Liandi haikal","born":"Medan, 1 September 1999","address":"Jl.Bejo Gg.Anggrek Bulan 3 Laut Dendang", "sex": "Laki -Laki", "religion": "Islam", "status": "Belum Menikah", "height": "170 cm / 80 kg", "phone": "082276366690", "email": "simdigliandi@gmail.com"}
+    {"id":1, "name":"(2006 - 2010) SD Yayasan Nurhasanah"}, 
+    {"id":2, "name":"(2011 - 2014) SMP Negeri 35 Medan"},
+    {"id":3, "name":"(2014 - 2017) SMK Tritech Informatika Medan"},
+    {"id":4, "name":"(2019 - sekarang) STMIK - STIE Mikroskil (sedang melakukan kuliah)"
+    }
+  ],
+  "skills": [
+    {
+      "id":1,"name":"Python, Ruby Php","rate":"8","desc": "tingkat lanjut"
+    },
+    {
+      "id":2,"name":"Mysql, Sql, NoSql, JSON, API","rate":"8", "desc":"tingkat lanjut"
+    },
+    {
+      "id":3,"name":".Net, Java","rate":"4","desc":"tingkat pemula"
+    },
+    {
+      "id":4,"name":"Git, Ionic, Android","rate":"8","desc":"tingkat lanjut" 
+    }
+  ],
+  "project": [
+    {
+      "id":1,"name":"Todos Vue","desc":"membuat list/daftar untuk mengerjakan suatu project website","link":"https://github.com/liankip/todos-vue"
+    },
+    {
+      "id":2,"name":"Chat React","desc":"Chitchat atau pesan text secara realtime mengunakan ReactJS dan Socket.io","link":"https://github.com/liankip/chat_react"
+    },
+    {
+      "id":3,"name":"Mini Framework PHP","desc":"Simple Framework php yang masih dalam tahap pengembangan dan namanya silian-php","link":"https://github.com/liankip/silian-php"
+    },
+    {
+      "id":4,"name":"Blog Car's","desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API","link":"https://github.com/liankip/blog-cars"
+    },
+    {
+      "id":5,"name":"Ikoma Ecommerce","desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website tersebut", "link":"https://www.ikoma.co.id"
+    }
   ]
 }
