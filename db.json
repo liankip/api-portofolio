@@ -49,7 +49,7 @@
       "id":4,"name":"Blog Car's","desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API","link":"https://github.com/liankip/blog-cars"
     },
     {
-      "id":5,"name":"Ikoma Ecommerce","desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website tersebut", "link":"https://www.ikoma.co.id"
+      "id":5,"name":"Ikoma Ecommerce","desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id", "link":"https://www.ikoma.co.id"
     }
   ]
 }
