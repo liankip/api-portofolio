@@ -93,5 +93,28 @@
       "desc": "Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
       "link": "https://www.ikoma.co.id"
     }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "name": "Badan Pertanahan Nasional (BPN)",
+      "type": "Freelance / Pegawai Lepas",
+      "desc": "(2012 - 2016) pertama kali bekerja pada 5 tahun bekerja di BPN sebagai karyawan lepas dan mengerjakan pengukuran hak kepemilikan tanah untuk dijadikan sertifikat",
+      
+    },
+    {
+      "id": 2,
+      "name": "Sekolah Tinggi Agrobisnis Perkebunan (STIPAP)",
+      "type": "Freelance / Pegawai Lepas",
+      "desc": "(2015 - 2016) Memperbaiki kartrid printer, instalasi Windows dan komputer, dan UPS (unit power supply)",
+      
+    },
+    {
+      "id": 3,
+      "name": "PT. Ikoma Indonesia",
+      "type": "Freelance / Pegawai Lepas",
+      "desc": "(2017 - 2019) Memperbaiki pengkodean untuk meningkatkan fungsionalitas baru, memperbaiki bug, mengatur ulang desain situs web ",
+      
+    }
   ]
 }
