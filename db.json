@@ -9,20 +9,32 @@
     {"id":4, "name":"(2019 - sekarang) STMIK - STIE Mikroskil (sedang melakukan kuliah)"
     }
   ],
-  "skills": [
-    {
-      "id":1,"name":"Python, Ruby on rails Php, laravel, Flask","rate":"80","desc": "tingkat lanjut"
-    },
-    {
-      "id":2,"name":"Mysql, Sql, NoSql, JSON, API","rate":"72", "desc":"tingkat lanjut"
-    },
-    {
-      "id":3,"name":".Net, Java","rate":"41","desc":"tingkat pemula"
-    },
-    {
-      "id":4,"name":"Git, Ionic, React Native, ReactJS, VueJS, NPM","rate":"65","desc":"tingkat lanjut" 
-    }
-  ],
+"skills": [
+  {
+    "id": 1,
+    "name": "Python, Ruby on rails Php, laravel, Flask",
+    "rate": "80",
+    "desc": "tingkat lanjut"
+  },
+  {
+    "id": 2,
+    "name": "Mysql, Sql, NoSql, JSON, API",
+    "rate": "72",
+    "desc": "tingkat lanjut"
+  },
+  {
+    "id": 3,
+    "name": ".Net, Java",
+    "rate": "41",
+    "desc": "tingkat pemula"
+  },
+  {
+    "id": 4,
+    "name": "Git, Ionic, React Native, ReactJS, VueJS, NPM",
+    "rate": "65",
+    "desc": "tingkat lanjut"
+  }
+],
   "project": [
     {
       "id":1,"name":"Todos Vue","desc":"membuat list/daftar untuk mengerjakan suatu project website","link":"https://github.com/liankip/todos-vue"
