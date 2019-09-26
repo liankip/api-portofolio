@@ -1,55 +1,97 @@
 {
   "form": [
-    {"name":"Liandi haikal","born":"Medan, 1 September 1999","address":"Jl.Bejo Gg.Anggrek Bulan 3 Laut Dendang", "sex": "Laki -Laki", "religion": "Islam", "status": "Belum Menikah", "height": "170 cm / 80 kg", "phone": "082276366690", "email": "simdigliandi@gmail.com"}
-  ],
-  "collage": [
-    {"id":1, "name":"(2006 - 2010) SD Yayasan Nurhasanah"}, 
-    {"id":2, "name":"(2011 - 2014) SMP Negeri 35 Medan"},
-    {"id":3, "name":"(2014 - 2017) SMK Tritech Informatika Medan"},
-    {"id":4, "name":"(2019 - sekarang) STMIK - STIE Mikroskil (sedang melakukan kuliah)"
+    {
+      "name": "Liandi haikal",
+      "born": "Medan, 1 September 1999",
+      "address": "Jl.Bejo Gg.Anggrek Bulan 3 Laut Dendang",
+      "sex": "Laki -Laki",
+      "religion": "Islam",
+      "status": "Belum Menikah",
+      "height": "170 cm / 80 kg",
+      "phone": "082276366690",
+      "email": "simdigliandi@gmail.com"
     }
   ],
-"skills": [
-  {
-    "id": 1,
-    "name": "Python, Ruby on rails Php, laravel, Flask",
-    "rate": "80",
-    "desc": "tingkat lanjut"
-  },
-  {
-    "id": 2,
-    "name": "Mysql, Sql, NoSql, JSON, API",
-    "rate": "72",
-    "desc": "tingkat lanjut"
-  },
-  {
-    "id": 3,
-    "name": ".Net, Java",
-    "rate": "40",
-    "desc": "tingkat pemula"
-  },
-  {
-    "id": 4,
-    "name": "Git, Ionic, React Native, ReactJS, VueJS, NPM",
-    "rate": "65",
-    "desc": "tingkat lanjut"
-  }
-],
+  "collage": [
+    {
+      "id": 1,
+      "name": "(2006 - 2010) SD Yayasan Nurhasanah"
+    },
+    {
+      "id": 2,
+      "name": "(2011 - 2014) SMP Negeri 35 Medan"
+    },
+    {
+      "id": 3,
+      "name": "(2014 - 2017) SMK Tritech Informatika Medan"
+    },
+    {
+      "id": 4,
+      "name": "(2019 - sekarang) STMIK - STIE Mikroskil (sedang melakukan kuliah)"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Python, Ruby on rails Php, laravel, Flask",
+      "rate": "80",
+      "desc": "tingkat lanjut"
+    },
+    {
+      "id": 2,
+      "name": "Mysql, Sql, NoSql, JSON, API",
+      "rate": "72",
+      "desc": "tingkat lanjut"
+    },
+    {
+      "id": 3,
+      "name": ".Net, Java",
+      "rate": "40",
+      "desc": "tingkat pemula"
+    },
+    {
+      "id": 4,
+      "name": "Git, Ionic, React Native, ReactJS, VueJS, NPM",
+      "rate": "65",
+      "desc": "tingkat lanjut"
+    }
+  ],
   "project": [
     {
-      "id":1,"name":"Todos Vue","desc":"membuat list/daftar untuk mengerjakan suatu project website dan menggunakan VueJS dan API","link":"https://github.com/liankip/todos-vue"
+      "id": 1,
+      "name": "Todos Vue",
+      "desc": "membuat list/daftar untuk mengerjakan suatu project website dan menggunakan VueJS dan API",
+      "link": "https://github.com/liankip/todos-vue"
     },
     {
-      "id":2,"name":"Chat React","desc":"Chitchat atau pesan text secara realtime mengunakan ReactJS dan Socket.io","link":"https://github.com/liankip/chat_react"
+      "id": 2,
+      "name": "Chat React",
+      "desc": "Chitchat atau pesan text secara realtime mengunakan ReactJS dan Socket.io",
+      "link": "https://github.com/liankip/chat_react"
     },
     {
-      "id":3,"name":"Mini Framework PHP","desc":"Simple Framework php yang masih dalam tahap pengembangan dan namanya silian-php","link":"https://github.com/liankip/silian-php"
+      "id": 3,
+      "name": "Mini Framework PHP",
+      "desc": "Simple Framework php yang masih dalam tahap pengembangan dan namanya silian-php",
+      "link": "https://github.com/liankip/silian-php"
     },
     {
-      "id":4,"name":"Blog Car's","desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API","link":"https://github.com/liankip/blog-cars"
+      "id": 4,
+      "name": "Blog Car's",
+      "desc": "Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API",
+      "link": "https://github.com/liankip/blog-cars"
     },
     {
-      "id":5,"name":"Ikoma Ecommerce","desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id", "link":"https://www.ikoma.co.id"
+      "id": 5,
+      "name": "Blog Car's API",
+      "desc": "Pengganti database untuk blog Car's dan di muat dalam bentuk JSON",
+      "link": "https://github.com/liankip/blog-cars"
+    },
+    {
+      "id": 6,
+      "name": "Ikoma Ecommerce",
+      "desc": "Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
+      "link": "https://www.ikoma.co.id"
     }
   ]
 }
