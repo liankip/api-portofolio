@@ -61,37 +61,43 @@
       "id": 1,
       "name": "Todos Vue",
       "desc": "membuat list/daftar untuk mengerjakan suatu project website dan menggunakan VueJS dan API",
-      "link": "https://github.com/liankip/todos-vue"
+      "link": "https://github.com/liankip/todos-vue",
+      "icon": "fas fa-list-ul"
     },
     {
       "id": 2,
       "name": "Chat React",
       "desc": "Chitchat atau pesan text secara realtime mengunakan ReactJS dan Socket.io",
-      "link": "https://github.com/liankip/chat_react"
+      "link": "https://github.com/liankip/chat_react",
+      "icon": "far fa-comments"
     },
     {
       "id": 3,
       "name": "Mini Framework PHP",
       "desc": "Simple Framework php yang masih dalam tahap pengembangan dan namanya silian-php",
-      "link": "https://github.com/liankip/silian-php"
+      "link": "https://github.com/liankip/silian-php",
+      "icon": "fas fa-align-left"
     },
     {
       "id": 4,
       "name": "Blog Car's",
       "desc": "Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API",
-      "link": "https://github.com/liankip/blog-cars"
+      "link": "https://github.com/liankip/blog-cars",
+      "icon": "fas fa-th-large"
     },
     {
       "id": 5,
       "name": "Blog Car's API",
       "desc": "Pengganti database untuk blog Car's dan di muat dalam bentuk JSON",
-      "link": "https://github.com/liankip/blog-cars"
+      "link": "https://github.com/liankip/blog-cars",
+      "icon": "fas fa-cubes"
     },
     {
       "id": 6,
       "name": "Ikoma Ecommerce",
       "desc": "Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
-      "link": "https://www.ikoma.co.id"
+      "link": "https://www.ikoma.co.id",
+      "icon": "fas fa-browser"
     }
   ],
   "jobs": [
