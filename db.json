@@ -62,35 +62,35 @@
       "name": "Todos Vue",
       "desc": "membuat list/daftar untuk mengerjakan suatu project website dan menggunakan VueJS dan API",
       "link": "https://github.com/liankip/todos-vue",
-      "icon": "fas fa-lg fa-list-ul"
+      "icon": "fas fa-list-ul fa-lg"
     },
     {
       "id": 2,
       "name": "Chat React",
       "desc": "Chitchat atau pesan text secara realtime mengunakan ReactJS dan Socket.io",
       "link": "https://github.com/liankip/chat_react",
-      "icon": "far fa-lg fa-comments"
+      "icon": "far fa-comments fa-lg"
     },
     {
       "id": 3,
       "name": "Mini Framework PHP",
       "desc": "Simple Framework php yang masih dalam tahap pengembangan dan namanya silian-php",
       "link": "https://github.com/liankip/silian-php",
-      "icon": "fas fa-lg fa-align-left"
+      "icon": "fas fa-align-left fa-lg"
     },
     {
       "id": 4,
       "name": "Blog Car's",
       "desc": "Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API",
       "link": "https://github.com/liankip/blog-cars",
-      "icon": "fas fa-lg fa-th-large"
+      "icon": "fas fa-th-large fa-lg"
     },
     {
       "id": 5,
       "name": "Blog Car's API",
       "desc": "Pengganti database untuk blog Car's dan di muat dalam bentuk JSON",
       "link": "https://github.com/liankip/blog-cars",
-      "icon": "fas fa-lg fa-cubes"
+      "icon": "fas fa-cubes fa-lg"
     },
     {
       "id": 6,
