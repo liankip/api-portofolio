@@ -100,6 +100,13 @@
     },
     {
       "id": 6,
+      "name": "Apps Android Ionic",
+      "desc": "simple Apps todolist yang berbasis android dibuat dari vue, ionic dan api untuk databasenya",
+      "link": "https://github.com/liankip/todolist-app",
+      "icon": "fas fa-mobile-alt fa-lg"
+    },
+    {
+      "id": 7,
       "name": "Ikoma Ecommerce",
       "desc": "Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
       "link": "https://www.ikoma.co.id",
