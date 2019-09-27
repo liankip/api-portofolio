@@ -45,13 +45,13 @@
     },
     {
       "id": 3,
-      "name": ".Net, Java",
+      "name": "ASP.Net, Java, Golang",
       "rate": "40",
       "desc": "tingkat pemula"
     },
     {
       "id": 4,
-      "name": "Git, Ionic, React Native, ReactJS, VueJS, NPM",
+      "name": "Git, Ionic, React Native, ReactJS, VueJS, NPM, jQuery",
       "rate": "65",
       "desc": "tingkat lanjut"
     }
