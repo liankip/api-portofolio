@@ -46,7 +46,7 @@
     {
       "id": 3,
       "name": "ASP.Net, Java, Golang",
-      "rate": "40",
+      "rate": "30",
       "desc": "tingkat pemula"
     },
     {
@@ -54,6 +54,12 @@
       "name": "Git, Ionic, React Native, ReactJS, VueJS, NPM, jQuery",
       "rate": "65",
       "desc": "tingkat lanjut"
+    },
+    {
+      "id": 5,
+      "name": "ExpressJS, SailsJS, GraphQL, Perl",
+      "rate": "40",
+      "desc": "tingkat pemula"
     }
   ],
   "project": [
