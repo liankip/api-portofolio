@@ -45,7 +45,7 @@
     },
     {
       "id": 3,
-      "name": "ASP.Net, Java, Golang",
+      "name": "ASP.Net, Java, Golang, ExpressJS, GraphQL",
       "rate": "30",
       "desc": "tingkat pemula"
     },
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "name": "ExpressJS, GraphQL",
+      "name": "Vim, PhpStrom, IntelliJ IDEA, Adobe Illustrator",
       "rate": "40",
       "desc": "tingkat pemula"
     }
