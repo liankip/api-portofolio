@@ -57,9 +57,9 @@
       },
       { 
          "id":5,
-         "name":"Vim, PhpStrom, IntelliJ IDEA, Adobe Illustrator",
-         "rate":"40",
-         "desc":"tingkat pemula"
+         "name":"Vim, PhpStrom, IntelliJ IDEA, Adobe Illustrator, Zeplin",
+         "rate":"70",
+         "desc":"tingkat lanjut"
       }
    ],
    "project":[ 
