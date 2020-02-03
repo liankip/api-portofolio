@@ -87,26 +87,19 @@
       { 
          "id":4,
          "name":"Blog Car's",
-         "desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API",
+         "desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API <a href="https://github.com/liankip/blog-cars"></a>",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg"
       },
       { 
          "id":5,
-         "name":"Blog Car's API",
-         "desc":"Pengganti database untuk blog Car's dan di muat dalam bentuk JSON",
-         "link":"https://github.com/liankip/blog-cars",
-         "icon":"fas fa-cubes fa-lg"
-      },
-      { 
-         "id":6,
          "name":"Apps Movie with Flutter",
          "desc":"Apps List Movie",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-lg fa-wpforms"
       },
       { 
-         "id":7,
+         "id":6,
          "name":"Ikoma Ecommerce",
          "desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
          "link":"https://www.ikoma.co.id",
