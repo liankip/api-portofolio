@@ -87,7 +87,7 @@
       { 
          "id":4,
          "name":"Blog Car's",
-         "desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API <a href="https://github.com/liankip/blog-cars"></a>",
+         "desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan <a href="https://github.com/liankip/blog-cars">API</a>",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg"
       },
