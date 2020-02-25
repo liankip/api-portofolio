@@ -55,8 +55,8 @@
       },
       {
          "id":4,
-         "name":"Blog Car's",
-         "desc":"Project blog yang menggunakan tema mobil dan menggunkan VueJS datanya menggunakan API/JSON",
+         "name":"Blog Cars + PWA",
+         "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan untuk frameworknya menggunkan VueJS datanya menggunakan database API/JSON + PWA menyimpan data secara offline",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg"
       },
@@ -87,13 +87,6 @@
          "desc":"API palsu untuk testing blog dan menggunakan relasi user dimana user adalah pembuat postingannya, untuk pengambilan datanya harus menggunakan apollo atau riley graphql untuk nodejs dan database menggunakan mongoose istilahnya MongoDB",
          "link":"",
          "icon":"fas fa-database"
-      },
-      {
-         "id":9,
-         "name":"save with PWA",
-         "desc":"Menyimpan data secara offline tanpa harus reload terlebih dahulu",
-         "link":"",
-         "icon":"fas fa-save"
       }
    ]
 }
