@@ -91,7 +91,7 @@
       {
          "id":9,
          "name": "save with PWA",
-         "desc": "Menyimpan data secara offline tanpa harus reload terlebih dahulu"
+         "desc": "Menyimpan data secara offline tanpa harus reload terlebih dahulu",
          "link": "",
          "icon": "fas fa-save"
       }
