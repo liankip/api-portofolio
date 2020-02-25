@@ -37,7 +37,7 @@
          "name":"Apps Todos Vue",
          "desc":"Aplikasi android yang membuat list/daftar untuk mengerjakan suatu project website atau project lainnya dan menggunakan VueJS dan API",
          "link":"https://github.com/liankip/app-todolist",
-         "icon":"fas fa-mobile"
+         "icon":"fas fa-mobile fa-lg"
       },
       {
          "id":2,
@@ -65,7 +65,7 @@
          "name":"Apps Movie with Flutter",
          "desc":"Apps List Movie",
          "link":"https://github.com/liankip/Movie-Apps",
-         "icon":"fab fa-android"
+         "icon":"fab fa-android fa-lg"
       },
       {
          "id":6,
