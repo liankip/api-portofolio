@@ -62,10 +62,7 @@
          "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan menggunkan VueJS + API/JSON + PWA",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg",
-         "tag": {
-            vue, 
-            json
-         }
+         "tag":"pwa"
       },
       {
          "id":5,
@@ -73,10 +70,7 @@
          "desc":"Daftat movie atau film yang banyak di dilihat dalam bentuk aplikasi APK / Andorid Apps",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-android fa-lg",
-         "tag": {
-            flutter, 
-            json
-         }
+         "tag": "flutter"
       },
       {
          "id":6,
@@ -100,11 +94,7 @@
          "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
          "link":"",
          "icon":"fas fa-database",
-         "tag": {
-            json,
-            mongodb,
-            graphql
-         }
+         "tag": "graphql"
       }
    ]
 }
