@@ -56,7 +56,7 @@
       {
          "id":4,
          "name":"Blog Cars + PWA",
-         "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan untuk frameworknya menggunkan VueJS datanya menggunakan database API/JSON + PWA menyimpan data secara offline",
+         "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan menggunkan VueJS + API/JSON + PWA",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg"
       },
