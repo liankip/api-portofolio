@@ -58,7 +58,7 @@
       },
       {
          "id":4,
-         "name":"Blog Cars + PWA",
+         "name":"Article Cars + PWA",
          "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan menggunkan VueJS + API/JSON + PWA",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg",
@@ -82,7 +82,7 @@
       },
       {
          "id":7,
-         "name":"Fake API (blogs)",
+         "name":"Fake API (articles)",
          "desc":"API palsu untuk testing blog dan menggunakan relasi user dimana user adalah pembuat postingannya",
          "link":"https://github.com/liankip/blog-api",
          "icon":"fas fa-database",
@@ -90,7 +90,7 @@
       },
       {
          "id":8,
-         "name":"Fake API with GraphQL (blogs)",
+         "name":"Fake API with GraphQL (articles)",
          "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
          "link":"",
          "icon":"fas fa-database",
