@@ -38,7 +38,7 @@
          "desc":"Aplikasi android yang membuat list/daftar untuk mengerjakan suatu project website atau project lainnya",
          "link":"https://github.com/liankip/app-todolist",
          "icon":"fas fa-mobile fa-lg",
-         "tag": "<span class="tag is-primary">Primary</span>"
+         "tag": "vue"
       },
       {
          "id":2,
@@ -46,7 +46,7 @@
          "desc":"Chitchat atau membuat pesan text secara realtime dan cepat. Mengunakan ReactJS dan Socket.io",
          "link":"https://github.com/liankip/chat_react",
          "icon":"far fa-comments fa-lg",
-         "tag": "<span class="tag is-primary">Primary</span>"
+         "tag": "react"
       },
       {
          "id":3,
@@ -54,7 +54,7 @@
          "desc":"Simple Framework php yang masih dalam tahap pengembangan dan namanya silian-php",
          "link":"https://github.com/liankip/silian-php",
          "icon":"fas fa-align-left fa-lg",
-         "tag": "<span class="tag is-primary">Primary</span>"
+         "tag": "php"
       },
       {
          "id":4,
@@ -62,7 +62,10 @@
          "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan menggunkan VueJS + API/JSON + PWA",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg",
-         "tag":""
+         "tag": {
+            vue, 
+            json
+         }
       },
       {
          "id":5,
@@ -70,7 +73,10 @@
          "desc":"Daftat movie atau film yang banyak di dilihat dalam bentuk aplikasi APK / Andorid Apps",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-android fa-lg",
-         "tag":""
+         "tag": {
+            flutter, 
+            json
+         }
       },
       {
          "id":6,
@@ -78,7 +84,7 @@
          "desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
          "link":"https://www.ikoma.co.id",
          "icon":"fab fa-lg fa-wpforms",
-         "tag":""
+         "tag":"codeigniter"
       },
       {
          "id":7,
@@ -86,7 +92,7 @@
          "desc":"API palsu untuk testing blog dan menggunakan relasi user dimana user adalah pembuat postingannya",
          "link":"https://github.com/liankip/blog-api",
          "icon":"fas fa-database",
-         "tag":""
+         "tag":"json"
       },
       {
          "id":8,
@@ -94,7 +100,11 @@
          "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
          "link":"",
          "icon":"fas fa-database",
-         "tag":""
+         "tag": {
+            json,
+            mongodb,
+            graphql
+         }
       }
    ]
 }
