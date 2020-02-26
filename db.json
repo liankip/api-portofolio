@@ -42,7 +42,7 @@
       {
          "id":2,
          "name":"Chat React",
-         "desc":"Chitchat atau pesan text secara realtime mengunakan ReactJS dan Socket.io",
+         "desc":"Chitchat atau membuat pesan text secara realtime dan cepat. Mengunakan ReactJS dan Socket.io",
          "link":"https://github.com/liankip/chat_react",
          "icon":"far fa-comments fa-lg"
       },
