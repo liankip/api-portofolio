@@ -84,7 +84,7 @@
       {
          "id":8,
          "name":"Fake API with GraphQL (blogs)",
-         "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo atau relay graphql untuk nodejs dan database menggunakan mongoose istilahnya MongoDB",
+         "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
          "link":"",
          "icon":"fas fa-database"
       }
