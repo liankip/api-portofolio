@@ -35,7 +35,7 @@
       {
          "id":1,
          "name":"Apps Todos Vue",
-         "desc":"Aplikasi android yang membuat list/daftar untuk mengerjakan suatu project website atau project lainnya dan menggunakan VueJS dan API",
+         "desc":"Aplikasi android yang membuat list/daftar untuk mengerjakan suatu project website atau project lainnya",
          "link":"https://github.com/liankip/app-todolist",
          "icon":"fas fa-mobile fa-lg"
       },
