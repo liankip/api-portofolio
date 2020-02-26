@@ -92,7 +92,7 @@
          "id":8,
          "name":"Fake API with GraphQL (articles)",
          "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
-         "link":"",
+         "link":"https://github.com/liankip/graphql-article",
          "icon":"fas fa-database",
          "tag": "graphql"
       }
