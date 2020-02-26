@@ -37,56 +37,64 @@
          "name":"Apps Todos Vue",
          "desc":"Aplikasi android yang membuat list/daftar untuk mengerjakan suatu project website atau project lainnya",
          "link":"https://github.com/liankip/app-todolist",
-         "icon":"fas fa-mobile fa-lg"
+         "icon":"fas fa-mobile fa-lg",
+         "tag": "<span class="tag is-primary">Primary</span>"
       },
       {
          "id":2,
          "name":"Chat React",
          "desc":"Chitchat atau membuat pesan text secara realtime dan cepat. Mengunakan ReactJS dan Socket.io",
          "link":"https://github.com/liankip/chat_react",
-         "icon":"far fa-comments fa-lg"
+         "icon":"far fa-comments fa-lg",
+         "tag": "<span class="tag is-primary">Primary</span>"
       },
       {
          "id":3,
          "name":"Mini Framework PHP",
          "desc":"Simple Framework php yang masih dalam tahap pengembangan dan namanya silian-php",
          "link":"https://github.com/liankip/silian-php",
-         "icon":"fas fa-align-left fa-lg"
+         "icon":"fas fa-align-left fa-lg",
+         "tag": "<span class="tag is-primary">Primary</span>"
       },
       {
          "id":4,
          "name":"Blog Cars + PWA",
          "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan menggunkan VueJS + API/JSON + PWA",
          "link":"https://github.com/liankip/blog-cars",
-         "icon":"fas fa-th-large fa-lg"
+         "icon":"fas fa-th-large fa-lg",
+         "tag":""
       },
       {
          "id":5,
          "name":"Apps Movie with Flutter",
          "desc":"Daftat movie atau film yang banyak di dilihat dalam bentuk aplikasi APK / Andorid Apps",
          "link":"https://github.com/liankip/Movie-Apps",
-         "icon":"fab fa-android fa-lg"
+         "icon":"fab fa-android fa-lg",
+         "tag":""
       },
       {
          "id":6,
          "name":"Ikoma Ecommerce",
          "desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
          "link":"https://www.ikoma.co.id",
-         "icon":"fab fa-lg fa-wpforms"
+         "icon":"fab fa-lg fa-wpforms",
+         "tag":""
       },
       {
          "id":7,
          "name":"Fake API (blogs)",
          "desc":"API palsu untuk testing blog dan menggunakan relasi user dimana user adalah pembuat postingannya",
          "link":"https://github.com/liankip/blog-api",
-         "icon":"fas fa-database"
+         "icon":"fas fa-database",
+         "tag":""
       },
       {
          "id":8,
          "name":"Fake API with GraphQL (blogs)",
          "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
          "link":"",
-         "icon":"fas fa-database"
+         "icon":"fas fa-database",
+         "tag":""
       }
    ]
 }
