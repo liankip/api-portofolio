@@ -82,7 +82,7 @@
          "name":"Ikoma Ecommerce",
          "desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
          "link":"https://www.ikoma.co.id",
-         "icon":"fab fa-lg fa-wpforms",
+         "icon":"fab fa-wpforms fa-lg",
          "tag":"codeigniter",
          "demo":""
       },
@@ -91,7 +91,7 @@
          "name":"Fake API (articles)",
          "desc":"API palsu untuk testing blog dan menggunakan relasi user dimana user adalah pembuat postingannya",
          "link":"https://github.com/liankip/blog-api",
-         "icon":"fas fa-database",
+         "icon":"fas fa-database fa-lg",
          "tag":"json",
          "demo":"https://my-json-server.typicode.com/liankip/blog-api/db"
       },
@@ -100,7 +100,7 @@
          "name":"Fake API with GraphQL (articles)",
          "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
          "link":"https://github.com/liankip/graphql-article",
-         "icon":"fas fa-database",
+         "icon":"fas fa-database fa-lg",
          "tag": "graphql",
          "demo":""
       }
