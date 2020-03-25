@@ -70,7 +70,7 @@
       },
       {
          "id":5,
-         "name":"Apps Movie with Flutter",
+         "name":"Apps Movie's Flutter",
          "desc":"Daftat movie atau film yang banyak di dilihat dalam bentuk aplikasi APK / Andorid Apps",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-android fa-lg",
@@ -88,7 +88,7 @@
       },
       {
          "id":7,
-         "name":"Fake API (articles)",
+         "name":"Fake API",
          "desc":"API palsu untuk testing blog dan menggunakan relasi user dimana user adalah pembuat postingannya",
          "link":"https://github.com/liankip/blog-api",
          "icon":"fas fa-database fa-lg",
@@ -97,7 +97,7 @@
       },
       {
          "id":8,
-         "name":"Fake API with GraphQL (articles)",
+         "name":"Fake API GraphQL",
          "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
          "link":"https://github.com/liankip/graphql-article",
          "icon":"fas fa-database fa-lg",
