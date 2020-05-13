@@ -114,5 +114,14 @@
          "tag": "graphql",
          "demo":""
       }
+      {
+         "id":9,
+         "name":"API Pizza Store",
+         "desc":"API Pizza, dibuat di laravel",
+         "link":"https://github.com/liankip/pizza-api",
+         "icon":"fas fa-database fa-lg",
+         "tag": "APIs",
+         "demo":"https://github.com/liankip/pizza-api"
+      }
    ]
 }
