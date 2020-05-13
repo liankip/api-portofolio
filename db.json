@@ -121,7 +121,17 @@
          "link":"https://github.com/liankip/pizza-api",
          "icon":"fas fa-database fa-lg",
          "tag": "APIs",
-         "demo":"https://github.com/liankip/pizza-api"
+         "demo":"https://pizza-apiv10.herokuapp.com/api/pizzas"
+      },
+      {
+         "id":10,
+         "name":"React Pizza Store",
+         "desc":"Pizza Store, online store pizza dibuat dengan react dan redux",
+         "link":"https://github.com/liankip/pizza-api",
+         "icon":"fas fa-database fa-lg",
+         "tag": "APIs",
+         "demo":"https://pizza-apiv10.herokuapp.com/api/pizzas"
       }
+      
    ]
 }
