@@ -113,7 +113,7 @@
          "icon":"fas fa-database fa-lg",
          "tag": "graphql",
          "demo":""
-      }
+      },
       {
          "id":9,
          "name":"API Pizza Store",
