@@ -71,8 +71,8 @@
       },
       {
          "id":4,
-         "name":"Article's + PWA",
-         "desc":"Website artikel yang menggunakan tentang perkembangan mobile saat ini dan menggunkan VueJS + API/JSON + PWA",
+         "name":"Vue News",
+         "desc":"Website news yang data cnn news secara real time dan menggunkan VueJS + API/JSON + PWA",
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg",
          "tag":"pwa",
