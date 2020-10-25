@@ -76,7 +76,7 @@
          "link":"https://github.com/liankip/blog-cars",
          "icon":"fas fa-th-large fa-lg",
          "tag":"pwa",
-         "demo":"https://vue-news-rho.vercel.app"
+         "demo":""
       },
       {
          "id":5,
@@ -103,7 +103,7 @@
          "link":"https://github.com/liankip/blog-api",
          "icon":"fas fa-database fa-lg",
          "tag":"json",
-         "demo":"https://my-json-server.typicode.com/liankip/blog-api/db"
+         "demo":""
       },
       {
          "id":8,
@@ -136,7 +136,7 @@
          "id":11,
          "name":"Nuxt Vote",
          "desc":"Sistem vote article on Nuxt",
-         "link":"https://github.com/liankip/pizza-api",
+         "link":"https://github.com/liankip/crud-articles",
          "icon":"fas fa-newspaper fa-lg",
          "tag": "react",
          "demo":"https://crarticles.now.sh/"
