@@ -63,7 +63,7 @@
       {
          "id":3,
          "name":"Apps Movie's Flutter",
-         "desc":"Daftar movie, film terbaru yang paling populer dan banyak di review",
+         "desc":"Daftar movie, film terbaru yang paling populer dan banyak di review.",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-android fa-lg",
          "tag": "flutter",
@@ -72,7 +72,7 @@
       {
          "id":4,
          "name":"Ikoma Ecommerce",
-         "desc":"Website penjualan dan memperbaiki UI di website ikoma.co.id",
+         "desc":"Website penjualan dan memperbaiki UI di website ikoma.co.id.",
          "link":"https://www.ikoma.co.id",
          "icon":"fab fa-wpforms fa-lg",
          "tag":"codeigniter",
@@ -81,7 +81,7 @@
       {
          "id":5,
          "name":"Pizza Store",
-         "desc":"Pizza Store, online store pizza dibuat dengan react dan redux",
+         "desc":"Pizza Store, pesan pizza online di store pizza.",
          "link":"https://github.com/liankip/pizza-api",
          "icon":"fas fa-store fa-lg",
          "tag": "react",
@@ -89,8 +89,8 @@
       },
       {
          "id":6,
-         "name":"Nuxt Vote",
-         "desc":"Sistem vote article on Nuxt",
+         "name":"Vote Articles",
+         "desc":"Voting articles yang paling banyak dibaca dan disukai",
          "link":"https://github.com/liankip/crud-articles",
          "icon":"fas fa-newspaper fa-lg",
          "tag": "react",
