@@ -48,7 +48,6 @@
          "desc":"Aplikasi android yang membuat list/daftar pegawai dan pengalaman kerja.",
          "link":"",
          "icon":"fas fa-mobile fa-lg",
-         "tag": "vue",
          "demo":""
       },
       {
@@ -57,7 +56,6 @@
          "desc":"Chitchat atau membuat pesan text secara realtime dan cepat.",
          "link":"https://github.com/liankip/chat_react",
          "icon":"far fa-comments fa-lg",
-         "tag": "react",
          "demo":""
       },
       {
@@ -66,16 +64,14 @@
          "desc":"Daftar movie, film terbaru yang paling populer dan banyak di review.",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-android fa-lg",
-         "tag": "flutter",
          "demo":""
       },
       {
          "id":4,
          "name":"Ikoma Ecommerce",
-         "desc":"Website penjualan dan memperbaiki UI di ikoma.co.id.",
+         "desc":"Website penjualan barang pecah belah ikoma.co.id.",
          "link":"https://www.ikoma.co.id",
          "icon":"fab fa-wpforms fa-lg",
-         "tag":"codeigniter",
          "demo":""
       },
       {
@@ -84,7 +80,6 @@
          "desc":"Pizza Store, pesan pizza online di store pizza.",
          "link":"https://github.com/liankip/pizza-api",
          "icon":"fas fa-store fa-lg",
-         "tag": "react",
          "demo":"https://pizza-store.simdigliandi.now.sh/"
       },
       {
@@ -93,7 +88,6 @@
          "desc":"Voting articles yang paling banyak dibaca dan disukai",
          "link":"https://github.com/liankip/crud-articles",
          "icon":"fas fa-newspaper fa-lg",
-         "tag": "react",
          "demo":"https://crarticles.now.sh/"
       }
    ]
