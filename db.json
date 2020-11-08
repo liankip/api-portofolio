@@ -44,17 +44,17 @@
    "project":[
       {
          "id":1,
-         "name":"Apps Todos Vue",
-         "desc":"Aplikasi android yang membuat list/daftar untuk mengerjakan suatu project website atau project lainnya",
-         "link":"https://github.com/liankip/app-todolist",
+         "name":"Pegawai App",
+         "desc":"Aplikasi android yang membuat list/daftar pegawai dan pengalaman kerja.",
+         "link":"",
          "icon":"fas fa-mobile fa-lg",
          "tag": "vue",
-         "demo":"https://todos-alpha.now.sh"
+         "demo":""
       },
       {
          "id":2,
-         "name":"Chat React",
-         "desc":"Chitchat atau membuat pesan text secara realtime dan cepat. Mengunakan ReactJS dan Socket.io",
+         "name":"Chit and Chat",
+         "desc":"Chitchat atau membuat pesan text secara realtime dan cepat.",
          "link":"https://github.com/liankip/chat_react",
          "icon":"far fa-comments fa-lg",
          "tag": "react",
@@ -62,70 +62,25 @@
       },
       {
          "id":3,
-         "name":"Mini Framework PHP",
-         "desc":"Simple Framework php yang masih dalam tahap pengembangan",
-         "link":"https://github.com/liankip/silian-php",
-         "icon":"fas fa-align-left fa-lg",
-         "tag": "php",
-         "demo":""
-      },
-      {
-         "id":4,
-         "name":"Vue News",
-         "desc":"Website news yang data cnn news secara real time dan menggunkan VueJS + API/JSON + PWA",
-         "link":"https://github.com/liankip/blog-cars",
-         "icon":"fas fa-th-large fa-lg",
-         "tag":"pwa",
-         "demo":""
-      },
-      {
-         "id":5,
          "name":"Apps Movie's Flutter",
-         "desc":"Daftat movie atau film yang banyak di dilihat dalam bentuk aplikasi APK / Andorid Apps",
+         "desc":"Daftar movie atau film yang populer dan banyak di review",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-android fa-lg",
          "tag": "flutter",
          "demo":""
       },
       {
-         "id":6,
+         "id":4,
          "name":"Ikoma Ecommerce",
-         "desc":"Website penjualan barang pecah belah dan menghandle bug dan memperbaiki tampilan di website ikoma.co.id",
+         "desc":"Website penjualan dan menghandle bug dan memperbaiki UI di website ikoma.co.id",
          "link":"https://www.ikoma.co.id",
          "icon":"fab fa-wpforms fa-lg",
          "tag":"codeigniter",
          "demo":""
       },
       {
-         "id":7,
-         "name":"Fake API",
-         "desc":"API palsu untuk testing blog dan menggunakan relasi user dimana user adalah pembuat postingannya",
-         "link":"https://github.com/liankip/blog-api",
-         "icon":"fas fa-database fa-lg",
-         "tag":"json",
-         "demo":""
-      },
-      {
-         "id":8,
-         "name":"Fake API GraphQL",
-         "desc":"API palsu, untuk pengambilan datanya harus menggunakan apollo graphql",
-         "link":"https://github.com/liankip/graphql-article",
-         "icon":"fas fa-database fa-lg",
-         "tag": "graphql",
-         "demo":""
-      },
-      {
-         "id":9,
-         "name":"API Pizza Store",
-         "desc":"API Pizza, dibuat di laravel",
-         "link":"https://github.com/liankip/pizza-api",
-         "icon":"fas fa-database fa-lg",
-         "tag": "APIs",
-         "demo":"https://pizza-apiv10.herokuapp.com/api/pizzas"
-      },
-      {
-         "id":10,
-         "name":"React Pizza Store",
+         "id":5,
+         "name":"Pizza Store",
          "desc":"Pizza Store, online store pizza dibuat dengan react dan redux",
          "link":"https://github.com/liankip/pizza-api",
          "icon":"fas fa-store fa-lg",
@@ -133,7 +88,7 @@
          "demo":"https://pizza-store.simdigliandi.now.sh/"
       },
       {
-         "id":11,
+         "id":6,
          "name":"Nuxt Vote",
          "desc":"Sistem vote article on Nuxt",
          "link":"https://github.com/liankip/crud-articles",
