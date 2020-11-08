@@ -44,7 +44,7 @@
    "project":[
       {
          "id":1,
-         "name":"Pegawai App",
+         "name":"Employee App",
          "desc":"Aplikasi android yang membuat list/daftar pegawai dan pengalaman kerja.",
          "link":"",
          "icon":"fas fa-mobile fa-lg",
