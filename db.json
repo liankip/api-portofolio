@@ -63,7 +63,7 @@
       {
          "id":3,
          "name":"Apps Movie's Flutter",
-         "desc":"Daftar film terbaru yang paling populer dan banyak di review",
+         "desc":"Daftar movie, film terbaru yang paling populer dan banyak di review",
          "link":"https://github.com/liankip/Movie-Apps",
          "icon":"fab fa-android fa-lg",
          "tag": "flutter",
