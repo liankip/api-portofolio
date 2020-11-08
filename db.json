@@ -72,7 +72,7 @@
       {
          "id":4,
          "name":"Ikoma Ecommerce",
-         "desc":"Website penjualan dan menghandle bug dan memperbaiki UI di website ikoma.co.id",
+         "desc":"Website penjualan dan memperbaiki UI di website ikoma.co.id",
          "link":"https://www.ikoma.co.id",
          "icon":"fab fa-wpforms fa-lg",
          "tag":"codeigniter",
