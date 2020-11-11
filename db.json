@@ -5,7 +5,7 @@
       "address":"Jl. Bejo Gg.Anggrek Bulan 3 Laut Dendang",
       "phone":"082276366690",
       "email":"simdigliandi@gmail.com",
-      "linkedin":""
+      "linkedin":"https://www.linkedin.com/in/liandi-haikal-316976147/"
       }
    ],
    "project":[
@@ -26,14 +26,14 @@
       {
          "id":3,
          "name":"App Movie's Flutter",
-         "desc":"Java, Flutter, APIs",
+         "desc":"Java, Flutter, Mysql, APIs",
          "link":"https://github.com/liankip/movie-app",
          "demo":""
       },
       {
          "id":4,
          "name":"Ikoma Ecommerce",
-         "desc":"Codeigniter, Vue, Jquery, APIs",
+         "desc":"Codeigniter, Vue, Mysql Jquery, APIs",
          "link":"https://www.ikoma.co.id",
          "demo":""
       },
