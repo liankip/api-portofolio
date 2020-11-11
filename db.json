@@ -102,7 +102,15 @@
          "id":8,
          "name":"Instgram Rails",
          "desc":"Social Media instagram di buat dengan ruby on rails",
-         "link":"https://github.com/liankip/todolist-app",
+         "link":"",
+         "icon":"fab fa-android fa-lg",
+         "demo":""
+      },
+      {
+         "id":8,
+         "name":"APIs Flask",
+         "desc":"",
+         "link":"",
          "icon":"fab fa-android fa-lg",
          "demo":""
       }
