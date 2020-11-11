@@ -52,7 +52,7 @@
       },
       {
          "id":2,
-         "name":"Chit and Chat",
+         "name":"Chat React",
          "desc":"Chitchat atau membuat pesan text secara realtime dan cepat.",
          "link":"https://github.com/liankip/chat_react",
          "icon":"far fa-comments fa-lg",
