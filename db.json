@@ -8,39 +8,6 @@
       "linkedin":""
       }
    ],
-   "experts":[],
-   "skills":[
-      {
-         "id":1,
-         "name":"Python, Ruby on rails, Php, laravel, Flask, Flutter",
-         "rate":"89",
-         "desc":"tingkat lanjut"
-      },
-      {
-         "id":2,
-         "name":"Mysql, Sql, NoSql, JSON, API, MongoDB, SQLite",
-         "rate":"97",
-         "desc":"tingkat lanjut"
-      },
-      {
-         "id":3,
-         "name":"Java, Golang",
-         "rate":"30",
-         "desc":"tingkat pemula"
-      },
-      {
-         "id":4,
-         "name":"Git, Ionic, React Native, ReactJS, VueJS, NPM, jQuery, ExpressJS, GraphQL",
-         "rate":"85",
-         "desc":"tingkat lanjut"
-      },
-      {
-         "id":5,
-         "name":"Vim, PhpStrom, Zeplin, Illustrator, XD",
-         "rate":"70",
-         "desc":"tingkat lanjut"
-      }
-   ],
    "project":[
       {
          "id":1,
@@ -101,7 +68,7 @@
       {
          "id":8,
          "name":"APIs Flask",
-         "desc":"Python, Flask, JWT Auth",
+         "desc":"Python, Flask, SQLite JWT Auth",
          "link":"https://github.com/liankip/flask-api",
          "demo":""
       }
