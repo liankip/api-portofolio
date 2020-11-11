@@ -44,9 +44,9 @@
    "project":[
       {
          "id":1,
-         "name":"Apps Employee Ionic",
+         "name":"App Employee Ionic",
          "desc":"Aplikasi android yang membuat list/daftar pegawai dan pengalaman kerja.",
-         "link":"",
+         "link":"https://github.com/liankip/employee-app",
          "icon":"fas fa-mobile fa-lg",
          "demo":""
       },
@@ -60,9 +60,9 @@
       },
       {
          "id":3,
-         "name":"Apps Movie's Flutter",
+         "name":"App Movie's Flutter",
          "desc":"Daftar movie, film terbaru yang paling populer dan banyak di review.",
-         "link":"https://github.com/liankip/Movie-Apps",
+         "link":"https://github.com/liankip/movie-app",
          "icon":"fab fa-android fa-lg",
          "demo":""
       },
@@ -78,7 +78,7 @@
          "id":5,
          "name":"Pizza Store",
          "desc":"Pizza Store, pesan pizza online di store pizza.",
-         "link":"https://github.com/liankip/pizza-api",
+         "link":"https://github.com/liankip/pizza-store",
          "icon":"fas fa-store fa-lg",
          "demo":"https://pizza-store.simdigliandi.now.sh/"
       },
@@ -89,6 +89,14 @@
          "link":"https://github.com/liankip/crud-articles",
          "icon":"fas fa-newspaper fa-lg",
          "demo":"https://crarticles.now.sh/"
+      },
+      {
+         "id":7,
+         "name":"App TODO ionic + vue",
+         "desc":"Voting articles yang paling banyak dibaca dan disukai",
+         "link":"https://github.com/liankip/todolist-app",
+         "icon":"fas fa-newspaper fa-lg",
+         "demo":""
       }
    ]
 }
