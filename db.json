@@ -61,14 +61,14 @@
       {
          "id":8,
          "name":"Instgram Rails",
-         "desc":"Ruby, Ruby on rails, Bootstrap",
+         "desc":"Ruby, Ruby on rails, SQLite, Bootstrap",
          "link":"https://github.com/liankip/instagram-app",
          "demo":""
       },
       {
          "id":8,
          "name":"APIs Flask",
-         "desc":"Python, Flask, SQLite JWT Auth",
+         "desc":"Python, Flask, SQLite, JWT Auth",
          "link":"https://github.com/liankip/flask-api",
          "demo":""
       }
