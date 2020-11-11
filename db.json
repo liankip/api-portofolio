@@ -95,7 +95,15 @@
          "name":"App TODO ionic + vue",
          "desc":"Task kerja bentuk daftar available android",
          "link":"https://github.com/liankip/todolist-app",
-         "icon":"fas fa-newspaper fa-lg",
+         "icon":"fab fa-android fa-lg",
+         "demo":""
+      },
+      {
+         "id":8,
+         "name":"Instgram Rails",
+         "desc":"Social Media instagram di buat dengan ruby on rails",
+         "link":"https://github.com/liankip/todolist-app",
+         "icon":"fab fa-android fa-lg",
          "demo":""
       }
    ]
