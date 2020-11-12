@@ -12,7 +12,7 @@
       {
          "id":1,
          "name":"App Employee Ionic",
-         "desc":"Ionic, Angular, TypeScript, Vue, Firebase",
+         "desc":"Ionic, Angular, TypeScript, Firebase",
          "link":"https://github.com/liankip/employee-app",
          "demo":""
       },
@@ -25,44 +25,37 @@
       },
       {
          "id":3,
-         "name":"App Movie's Flutter",
-         "desc":"Java, Flutter, Mysql, APIs",
+         "name":"App Cart Ionic",
+         "desc":"Ionic, Angular, TypeScript, Firebase",
          "link":"https://github.com/liankip/movie-app",
          "demo":""
       },
       {
          "id":4,
-         "name":"Ikoma Ecommerce",
-         "desc":"Codeigniter, Vue, Mysql Jquery, APIs",
-         "link":"https://www.ikoma.co.id",
-         "demo":""
-      },
-      {
-         "id":5,
          "name":"Pizza Store",
          "desc":"React, Redux, APIs",
          "link":"https://github.com/liankip/pizza-store",
          "demo":"https://pizza-store.simdigliandi.now.sh/"
       },
       {
-         "id":6,
+         "id":5,
          "name":"Vote Articles",
          "desc":"Vue, Nuxt, PWA, APIs",
          "link":"https://github.com/liankip/crud-articles",
          "demo":"https://crarticles.now.sh/"
       },
       {
-         "id":7,
+         "id":6,
          "name":"App TODO ionic + vue",
          "desc":"Ionic, Angular, TypeScript, Vue, APIs",
          "link":"https://github.com/liankip/todolist-app",
          "demo":""
       },
       {
-         "id":8,
-         "name":"Instgram Rails",
-         "desc":"Ruby, Ruby on rails, SQLite, Bootstrap",
-         "link":"https://github.com/liankip/instagram-app",
+         "id":7,
+         "name":"APIs Laravel",
+         "desc":"PHP, Laravel, Mysql",
+         "link":"https://github.com/liankip/pizza-api",
          "demo":""
       },
       {
