@@ -39,34 +39,27 @@
       },
       {
          "id":5,
-         "name":"Vote Articles",
-         "desc":"Vue, Nuxt, APIs",
-         "link":"https://github.com/liankip/crud-articles",
-         "demo":""
-      },
-      {
-         "id":6,
          "name":"PWA Articles",
          "desc":"Vue, PWA, APIs",
          "link":"https://github.com/liankip/articles-pwa",
          "demo":"https://articles-pwa.vercel.app/"
       },
       {
-         "id":7,
+         "id":6,
          "name":"App TODO ionic + vue",
          "desc":"Ionic, Angular, TypeScript, Vue, APIs",
          "link":"https://github.com/liankip/todolist-app",
          "demo":"https://todos-alpha.now.sh"
       },
       {
-         "id":8,
+         "id":7,
          "name":"APIs Laravel",
          "desc":"PHP, Laravel, Mysql",
          "link":"https://github.com/liankip/pizza-api",
          "demo":""
       },
       {
-         "id":9,
+         "id":8,
          "name":"APIs Flask",
          "desc":"Python, Flask, SQLite, JWT Auth",
          "link":"https://github.com/liankip/flask-api",
