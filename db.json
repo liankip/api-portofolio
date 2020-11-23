@@ -59,10 +59,17 @@
          "demo":""
       },
       {
-         "id":8,
+         "id":9,
          "name":"APIs Flask",
          "desc":"Python, Flask, SQLite, JWT Auth",
          "link":"https://github.com/liankip/flask-api",
+         "demo":""
+      },
+      {
+         "id":8,
+         "name":"Mini Framework PHP",
+         "desc":"PHP, OOP, MVC, Mysql",
+         "link":"https://github.com/liankip/mini-php",
          "demo":""
       }
    ]
