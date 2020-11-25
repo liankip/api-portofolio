@@ -47,7 +47,7 @@
       {
          "id":6,
          "name":"App Todos",
-         "desc":"Android, Ionic, Angular, TypeScript, Vue, APIs",
+         "desc":"Android, Ionic, TypeScript, Vue, APIs",
          "link":"https://github.com/liankip/todolist-app",
          "demo":"https://todos-alpha.now.sh"
       },
