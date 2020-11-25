@@ -12,7 +12,7 @@
       {
          "id":1,
          "name":"App Employee Ionic",
-         "desc":"Ionic, Angular, TypeScript, Firebase",
+         "desc":"Android, Ionic, Angular, TypeScript, Firebase",
          "link":"https://github.com/liankip/employee-app",
          "demo":"https://newagent-5bb2c.web.app/"
       },
@@ -26,50 +26,57 @@
       {
          "id":3,
          "name":"App Cart Ionic",
-         "desc":"Ionic, Angular, TypeScript, Firebase",
+         "desc":"Android, Ionic, Angular, TypeScript, Firebase",
          "link":"https://github.com/liankip/movie-app",
          "demo":"https://cart-ionic-cfebc.web.app/"
       },
       {
          "id":4,
          "name":"Pizza Store",
-         "desc":"React, Redux, APIs",
+         "desc":"Web, React, Redux, APIs",
          "link":"https://github.com/liankip/pizza-store",
          "demo":"https://pizza-store.simdigliandi.now.sh/"
       },
       {
          "id":5,
          "name":"PWA Articles",
-         "desc":"Vue, PWA, APIs",
+         "desc":"Web, Vue, PWA, APIs",
          "link":"https://github.com/liankip/articles-pwa",
          "demo":"https://articles-pwa.vercel.app/"
       },
       {
          "id":6,
          "name":"App Todos",
-         "desc":"Ionic, Angular, TypeScript, Vue, APIs",
+         "desc":"Android, Ionic, Angular, TypeScript, Vue, APIs",
          "link":"https://github.com/liankip/todolist-app",
          "demo":"https://todos-alpha.now.sh"
       },
       {
          "id":7,
          "name":"APIs Laravel",
-         "desc":"PHP, Laravel, Mysql",
+         "desc":"Web, PHP, Laravel, Mysql",
          "link":"https://github.com/liankip/pizza-api",
          "demo":""
       },
       {
          "id":9,
          "name":"APIs Flask",
-         "desc":"Python, Flask, SQLite, JWT Auth",
+         "desc":"API, Python, Flask, SQLite, JWT Auth",
          "link":"https://github.com/liankip/flask-api",
          "demo":""
       },
       {
          "id":8,
          "name":"Mini Framework PHP",
-         "desc":"PHP, OOP, MVC, Mysql",
+         "desc":"Web, PHP, OOP, MVC, Mysql",
          "link":"https://github.com/liankip/mini-php",
+         "demo":""
+      },
+      {
+         "id":9,
+         "name":"App Movie",
+         "desc":"Android, Flutter, Firebase, APIs",
+         "link":"https://github.com/liankip/movie-app",
          "demo":""
       }
    ]
