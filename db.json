@@ -1,39 +1,39 @@
 {
-   "profile": {
-      "name":"Liandi Haikal",
-      "address":"Jl. Bejo Gg.Anggrek Bulan 3 Laut Dendang",
-      "phone":"082276366690",
-      "email":"simdigliandi@gmail.com",
-      "linkedin":"https://www.linkedin.com/in/liandi-haikal-316976147/"
-   },
-   "project":[
-      {
-         "id":1,
-         "name":"Pizza Store",
-         "desc":"Web, React, Redux, APIs",
-         "link":"https://github.com/liankip/pizza-store",
-         "demo":"https://pizza-store.simdigliandi.now.sh/"
-      },
-      {
-         "id":2,
-         "name":"Apis Funmobile",
-         "desc":"Api, Express, Sequelize",
-         "link":"",
-         "demo":""
-      },
-      {
-         "id":3,
-         "name":"Dashboard Funmobile",
-         "desc":"Web, Vue, Vuex",
-         "link":"",
-         "demo":""
-      },
-      {
-         "id":4,
-         "name":"Report Funmobile",
-         "desc":"Web, Vue, Vuex",
-         "link":"",
-         "demo":""
-      }
-   ]
+  "profile":{
+    "name":"Liandi Haikal",
+    "address":"Jl. Bejo Gg.Anggrek Bulan 3 Laut Dendang",
+    "phone":"082276366690",
+    "email":"simdigliandi@gmail.com",
+    "linkedin":"https://www.linkedin.com/in/liandi-haikal-316976147/"
+  },
+  "project":[
+    {
+      "id":1,
+      "name":"Pizza Store",
+      "desc":"Web, React, Redux, APIs",
+      "link":"https://github.com/liankip/pizza-store",
+      "demo":"https://pizza-store.simdigliandi.now.sh/"
+    },
+    {
+      "id":2,
+      "name":"Apis Funmobile",
+      "desc":"Api, Express, Sequelize",
+      "link":"",
+      "demo":""
+    },
+    {
+      "id":3,
+      "name":"Dashboard Funmobile",
+      "desc":"Web, Vue, Vuex",
+      "link":"",
+      "demo":""
+    },
+    {
+      "id":4,
+      "name":"Report Funmobile",
+      "desc":"Web, Vue, Vuex",
+      "link":"",
+      "demo":""
+    }
+  ]
 }
