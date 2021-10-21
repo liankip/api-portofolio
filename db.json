@@ -13,6 +13,27 @@
          "desc":"Web, React, Redux, APIs",
          "link":"https://github.com/liankip/pizza-store",
          "demo":"https://pizza-store.simdigliandi.now.sh/"
+      },
+      {
+         "id":2,
+         "name":"Apis Funmobile",
+         "desc":"Api, Express, Sequelize",
+         "link":"",
+         "demo":""
+      }
+      {
+         "id":3,
+         "name":"Dashboard Funmobile",
+         "desc":"Web, Vue, Vuex",
+         "link":"",
+         "demo":""
+      },
+      {
+         "id":4,
+         "name":"Report Funmobile",
+         "desc":"Web, Vue, Vuex",
+         "link":"",
+         "demo":""
       }
    ]
 }
