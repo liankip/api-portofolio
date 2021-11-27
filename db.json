@@ -34,13 +34,6 @@
       "desc":"Web, Vue, Vuex",
       "link":"https://github.com/liankip/funmobile-repo",
       "demo":"https://report.funmobile.id/"
-    },
-    {
-      "id":5,
-      "name":"Sample Portofolio",
-      "desc":"Web, Vue, Vuex",
-      "link":"https://github.com/liankip/cv_anh/",
-      "demo":"https://cv-nizam.vercel.app/"
     }
   ]
 }
