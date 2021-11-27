@@ -5,41 +5,5 @@
 		"phone": "082276366690",
 		"email": "simdigliandi@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/liandi-haikal-316976147/"
-	},
-	"project": [{
-			"id": 1,
-			"name": "Pizza Store",
-			"desc": "Web, React, Redux, APIs",
-			"link": "https://github.com/liankip/pizza-store/",
-			"demo": "https://pizza-store.simdigliandi.now.sh/"
-		},
-		{
-			"id": 2,
-			"name": "Apis Funmobile",
-			"desc": "Api, Express, Sequelize",
-			"link": "https://github.com/liankip/funmobile-apis/",
-			"demo": ""
-		},
-		{
-			"id": 3,
-			"name": "Dashboard Funmobile",
-			"desc": "Web, Vue, Vuex",
-			"link": "https://github.com/liankip/funmobile-dash",
-			"demo": ""
-		},
-		{
-			"id": 4,
-			"name": "Report Funmobile",
-			"desc": "Web, Vue, Vuex",
-			"link": "https://github.com/liankip/funmobile-repo",
-			"demo": "https://report.funmobile.id/"
-		},
-		{
-			"id": 5,
-			"name": "Sample Portofolio",
-			"desc": "Web, Vue, Vuex",
-			"link": "https://github.com/liankip/cv_anh/",
-			"demo": "https://cv-nizam.vercel.app/"
-		}
-	]
+	}
 }
