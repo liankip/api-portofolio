@@ -45,7 +45,7 @@
     {
       "id": 6,
 			"name": "Question GraphQL",
-			"desc": "Node, GraphQL, Mongo / Mongoose",
+			"desc": "Node, GraphQL, Mongoose",
 			"link": "https://github.com/liankip/questions-graphql",
 			"demo": ""
     }
