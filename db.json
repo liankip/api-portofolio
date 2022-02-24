@@ -2,7 +2,8 @@
 	"profile": {
 		"name": "Liandi Haikal",
 		"address": "Jl. Bejo Gg.Anggrek Bulan 3 Laut Dendang",
-		"phone": "082276366690",
+		"phone / wa": "+6281267582824",
+    "telegram": "+6282168420111",
 		"email": "simdigliandi@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/liandi-haikal-316976147/"
 	},
@@ -32,7 +33,7 @@
 			"name": "Report Funmobile",
 			"desc": "Web, Vue, Vuex",
 			"link": "https://github.com/liankip/funmobile-repo",
-			"demo": "https://report.funmobile.id/"
+			"demo": ""
 		},
 		{
 			"id": 5,
@@ -40,6 +41,13 @@
 			"desc": "Web, Vue, Vuex",
 			"link": "https://github.com/liankip/cv_anh/",
 			"demo": "https://cv-nizam.vercel.app/"
-		}
+		},
+    {
+      "id": 6,
+			"name": "Question GraphQL",
+			"desc": "Node, GraphQL, Mongo / Mongoose",
+			"link": "https://github.com/liankip/questions-graphql",
+			"demo": ""
+    }
 	]
 }
