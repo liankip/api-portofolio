@@ -23,27 +23,13 @@
 		},
 		{
 			"id": 3,
-			"name": "Dashboard Funmobile",
-			"desc": "Web, Vue, Vuex",
-			"link": "https://github.com/liankip/funmobile-dash",
-			"demo": ""
-		},
-		{
-			"id": 4,
-			"name": "Report Funmobile",
-			"desc": "Web, Vue, Vuex",
-			"link": "https://github.com/liankip/funmobile-repo",
-			"demo": ""
-		},
-		{
-			"id": 5,
 			"name": "Sample Portofolio",
 			"desc": "Web, Vue, Vuex",
 			"link": "https://github.com/liankip/cv_anh/",
 			"demo": "https://cv-nizam.vercel.app/"
 		},
     {
-      "id": 6,
+      "id": 4,
 			"name": "Question GraphQL",
 			"desc": "Node, GraphQL, Mongoose",
 			"link": "https://github.com/liankip/questions-graphql",
