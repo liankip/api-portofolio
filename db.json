@@ -34,6 +34,13 @@
 			"desc": "Node, GraphQL, Mongoose",
 			"link": "https://github.com/liankip/questions-graphql",
 			"demo": ""
-    }
+    },
+		{
+			"id": 5,
+			"name": "MZ Fashion",
+			"desc": "React Native, Firebase, Typescript",
+			"link": "https://github.com/liankip/mzfashion",
+			"demo": ""
+		}
 	]
 }
