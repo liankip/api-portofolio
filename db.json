@@ -11,7 +11,7 @@
 		"id": 1,
 		"name": "MZ Fashion",
 		"desc": "React Native, Firebase, Typescript",
-		"link": "https://github.com/liankip/mzfashion",
+		"link": "https://github.com/liankip/mzfashion"
 	},
 	{
 		"id": 2,
@@ -19,7 +19,7 @@
 		"desc": "Golang, Postgres, Fiber",
 		"link": "https://github.com/liankip/api-dating"
 	},
-  {
+	{
 		"id": 3,
 		"name": "Pizza Store",
 		"desc": "Web, React, Redux, APIs",
