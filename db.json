@@ -11,13 +11,15 @@
 		"id": 1,
 		"name": "MZ Fashion",
 		"desc": "React Native, Firebase, Typescript",
-		"link": "https://github.com/liankip/mzfashion"
+		"link": "https://github.com/liankip/mzfashion",
+		"demo": ""
 	},
 	{
 		"id": 2,
 		"name": "API Dating",
 		"desc": "Golang, Postgres, Fiber",
-		"link": "https://github.com/liankip/api-dating"
+		"link": "https://github.com/liankip/api-dating",
+		"demo": ""
 	},
 	{
 		"id": 3,
@@ -30,7 +32,8 @@
 		"id": 4,
 		"name": "Apis Funmobile",
 		"desc": "Api, Express, Sequelize",
-		"link": "https://github.com/liankip/funmobile-apis/"
+		"link": "https://github.com/liankip/funmobile-apis/",
+		"demo": ""
 	},
 	{
 		"id": 5,
