@@ -48,5 +48,23 @@
 		"desc": "Laravel, Livewire",
 		"link": "https://github.com/liankip/form-fidelity",
 		"demo": "https://form.satrianusa.group/"
+	}, {
+		"id": 7,
+		"name": "SNE Fidelity",
+		"desc": "Laravel, Livewire",
+		"link": "",
+		"demo": "https://fidelity.satrianusa.group/"
+	}, {
+		"id": 8,
+		"name": "Bluewaterlab",
+		"desc": "Next JS, Tailwind",
+		"link": "",
+		"demo": "https://bluewaterlab.co/"
+	}, {
+		"id": 9,
+		"name": "Wallpaper Cart / Catalog",
+		"desc": "Vue, Tailwind",
+		"link": "https://github.com/liankip/wallpaper-cart",
+		"demo": "https://wallpaper-cart.vercel.app/"
 	}]
 }	
