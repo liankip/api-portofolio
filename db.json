@@ -1,70 +1,110 @@
 {
-	"profile": {
-		"name": "Liandi Haikal",
-		"address": "Jl. Bejo Gg.Anggrek Bulan 3 Laut Dendang",
-		"phone / wa": "+6281267582824",
-		"telegram": "+6281267582824",
-		"email": "liandi.haikal@gmail.com",
-		"linkedin": "https://www.linkedin.com/in/liandi-haikal-316976147/"
-	},
-	"project": [{
-		"id": 1,
-		"name": "MZ Fashion",
-		"desc": "React Native, Firebase, Typescript",
-		"link": "https://github.com/liankip/mzfashion",
-		"demo": ""
-	},
-	{
-		"id": 2,
-		"name": "API Dating",
-		"desc": "Golang, Postgres, Fiber",
-		"link": "https://github.com/liankip/api-dating",
-		"demo": ""
-	},
-	{
-		"id": 3,
-		"name": "Pizza Store",
-		"desc": "Web, React, Redux, APIs",
-		"link": "https://github.com/liankip/pizza-store/",
-		"demo": "https://pizza-store.simdigliandi.now.sh/"
-	},
-	{
-		"id": 4,
-		"name": "Apis Funmobile",
-		"desc": "Api, Express, Sequelize",
-		"link": "https://github.com/liankip/funmobile-apis/",
-		"demo": ""
-	},
-	{
-		"id": 5,
-		"name": "Sample Portofolio",
-		"desc": "Web, Vue, Vuex",
-		"link": "https://github.com/liankip/cv_anh/",
-		"demo": "https://cv-nizam.vercel.app/"
-	},
-	{
-		"id": 6,
-		"name": "Form Fidelity",
-		"desc": "Laravel, Livewire",
-		"link": "https://github.com/liankip/form-fidelity",
-		"demo": "https://form.satrianusa.group/"
-	}, {
-		"id": 7,
-		"name": "SNE Fidelity",
-		"desc": "Laravel, Livewire",
-		"link": "",
-		"demo": "https://fidelity.satrianusa.group/"
-	}, {
-		"id": 8,
-		"name": "Bluewaterlab",
-		"desc": "Next JS, Tailwind",
-		"link": "",
-		"demo": "https://bluewaterlab.co/"
-	}, {
-		"id": 9,
-		"name": "Wallpaper Cart / Catalog",
-		"desc": "Vue, Tailwind",
-		"link": "https://github.com/liankip/wallpaper-cart",
-		"demo": "https://wallpaper-cart.vercel.app/"
-	}]
+  "project": [
+    {
+      "id": 1,
+      "name": "SNE Fidelity (Laravel, Livewire, Bootstrap, MySQL)",
+      "description": "",
+      "link": "",
+      "demo": "https://fidelity.satrianusa.group/",
+      "image": "./images/fidelity/1.png",
+      "images": [
+        "./images/fidelity/1.png",
+        "./images/fidelity/2.png",
+        "./images/fidelity/3.png",
+        "./images/fidelity/4.png",
+        "./images/fidelity/5.png",
+        "./images/fidelity/6.png",
+        "./images/fidelity/7.png",
+        "./images/fidelity/8.png",
+        "./images/fidelity/9.png",
+        "./images/fidelity/10.png",
+        "./images/fidelity/11.png",
+        "./images/fidelity/12.png",
+        "./images/fidelity/13.png",
+        "./images/fidelity/14.png",
+        "./images/fidelity/15.png",
+        "./images/fidelity/16.png",
+        "./images/fidelity/17.png",
+        "./images/fidelity/18.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Form Fidelity (Laravel, Livewire, TallStack UI, Tailwind, MySQL)",
+      "description": "",
+      "link": "https://github.com/liankip/form-fidelity",
+      "demo": "https://form.satrianusa.group/",
+      "image": "./images/form/1.png",
+      "images": [
+        "./images/form/1.png",
+        "./images/form/2.png",
+        "./images/form/3.png",
+        "./images/form/4.png",
+        "./images/form/5.png",
+        "./images/form/6.png",
+        "./images/form/7.png",
+        "./images/form/8.png",
+        "./images/form/9.png",
+        "./images/form/10.png",
+        "./images/form/11.png",
+        "./images/form/12.png",
+        "./images/form/13.png",
+        "./images/form/14.png",
+        "./images/form/15.png",
+        "./images/form/16.png",
+        "./images/form/17.png",
+        "./images/form/18.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bluewaterlab.co (Next.js, Tailwind, Typescript)",
+      "description": "",
+      "link": "",
+      "demo": "https://bluewaterlab.co/",
+      "image": "./images/bluewaterlab/1.png",
+      "images": [
+        "./images/bluewaterlab/1.png",
+        "./images/bluewaterlab/2.png",
+        "./images/bluewaterlab/3.png",
+        "./images/bluewaterlab/4.png",
+        "./images/bluewaterlab/5.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "MZ Fashion (React Native, Firebase, Typescript)",
+      "description": "",
+      "link": "https://github.com/liankip/mzfashion",
+      "demo": ""
+    },
+    {
+      "id": 5,
+      "name": "API Dating (Golang, PostgresSQL, Fiber)",
+      "description": "",
+      "link": "https://github.com/liankip/api-dating",
+      "demo": ""
+    },
+    {
+      "id": 6,
+      "name": "Pizza Store (React.js, Redux, Tailwind)",
+      "description": "",
+      "link": "https://github.com/liankip/pizza-store/",
+      "demo": "https://pizza-store.simdigliandi.now.sh/"
+    },
+    {
+      "id": 7,
+      "name": "Rest API Funmobile (Express, Sequelize, SQL Server)",
+      "description": "",
+      "link": "https://github.com/liankip/funmobile-apis/",
+      "demo": ""
+    },
+    {
+      "id": 8,
+      "name": "Wallpaper Cart / Catalog (Vue.js, Tailwind)",
+      "description": "",
+      "link": "https://github.com/liankip/wallpaper-cart",
+      "demo": "https://wallpaper-cart.vercel.app/"
+    }
+  ]
 }	
