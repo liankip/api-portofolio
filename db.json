@@ -76,35 +76,62 @@
       "name": "MZ Fashion (React Native, Firebase, Typescript)",
       "description": "",
       "link": "https://github.com/liankip/mzfashion",
-      "demo": ""
+      "demo": "",
+      "image": "./images/mzfashion/1.jpeg",
+      "images": [
+        "./images/mzfashion/1.jpeg",
+        "./images/mzfashion/2.jpeg",
+        "./images/mzfashion/3.jpeg",
+        "./images/mzfashion/4.jpeg",
+        "./images/mzfashion/5.jpeg"
+      ]
     },
     {
       "id": 5,
       "name": "API Dating (Golang, PostgresSQL, Fiber)",
       "description": "",
       "link": "https://github.com/liankip/api-dating",
-      "demo": ""
+      "demo": "",
+      "image": "./images/dating/1.png",
+      "images": [
+        "./images/dating/1.png",
+      ]
     },
     {
       "id": 6,
       "name": "Pizza Store (React.js, Redux, Tailwind)",
       "description": "",
       "link": "https://github.com/liankip/pizza-store/",
-      "demo": "https://pizza-store.simdigliandi.now.sh/"
+      "demo": "https://pizza-store.simdigliandi.now.sh/",
+      "image": "./images/pizzastore/1.png",
+      "images": [
+        "./images/pizzastore/1.png",
+        "./images/pizzastore/2.png",
+        "./images/pizzastore/3.png"
+      ]
     },
     {
       "id": 7,
       "name": "Rest API Funmobile (Express, Sequelize, SQL Server)",
       "description": "",
       "link": "https://github.com/liankip/funmobile-apis/",
-      "demo": ""
+      "demo": "",
+      "image": "./images/funmobile/1.png",
+      "images": [
+        "./images/funmobile/1.png"
+      ]
     },
     {
       "id": 8,
       "name": "Wallpaper Cart / Catalog (Vue.js, Tailwind)",
       "description": "",
       "link": "https://github.com/liankip/wallpaper-cart",
-      "demo": "https://wallpaper-cart.vercel.app/"
+      "demo": "https://wallpaper-cart.vercel.app/",
+      "image": "./images/wallpaper/1.png",
+      "images": [
+        "./images/wallpaper/1.png",
+        "./images/wallpaper/2.png"
+      ]
     }
   ]
 }	
