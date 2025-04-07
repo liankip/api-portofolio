@@ -4,133 +4,131 @@
       "id": 1,
       "name": "SNE Fidelity (Laravel, Livewire, Bootstrap, MySQL)",
       "description": "",
-      "link": "",
+      "github": "https://github.com/liankip/fidelity",
       "demo": "https://fidelity.satrianusa.group/",
-      "image": "./images/fidelity/1.png",
+      "image": "/images/fidelity/1.png",
       "images": [
-        "./images/fidelity/1.png",
-        "./images/fidelity/2.png",
-        "./images/fidelity/3.png",
-        "./images/fidelity/4.png",
-        "./images/fidelity/5.png",
-        "./images/fidelity/6.png",
-        "./images/fidelity/7.png",
-        "./images/fidelity/8.png",
-        "./images/fidelity/9.png",
-        "./images/fidelity/10.png",
-        "./images/fidelity/11.png",
-        "./images/fidelity/12.png",
-        "./images/fidelity/13.png",
-        "./images/fidelity/14.png",
-        "./images/fidelity/15.png",
-        "./images/fidelity/16.png",
-        "./images/fidelity/17.png",
-        "./images/fidelity/18.png"
+        "/images/fidelity/1.png",
+        "/images/fidelity/2.png",
+        "/images/fidelity/3.png",
+        "/images/fidelity/4.png",
+        "/images/fidelity/5.png",
+        "/images/fidelity/6.png",
+        "/images/fidelity/7.png",
+        "/images/fidelity/8.png",
+        "/images/fidelity/9.png",
+        "/images/fidelity/10.png",
+        "/images/fidelity/11.png",
+        "/images/fidelity/12.png",
+        "/images/fidelity/13.png",
+        "/images/fidelity/14.png",
+        "/images/fidelity/15.png",
+        "/images/fidelity/16.png",
+        "/images/fidelity/17.png",
+        "/images/fidelity/18.png"
       ]
     },
     {
       "id": 2,
       "name": "Form Fidelity (Laravel, Livewire, TallStack UI, Tailwind, MySQL)",
       "description": "",
-      "link": "https://github.com/liankip/form-fidelity",
+      "github": "https://github.com/liankip/form-fidelity",
       "demo": "https://form.satrianusa.group/",
-      "image": "./images/form/1.png",
+      "image": "/images/form/1.png",
       "images": [
-        "./images/form/1.png",
-        "./images/form/2.png",
-        "./images/form/3.png",
-        "./images/form/4.png",
-        "./images/form/5.png",
-        "./images/form/6.png",
-        "./images/form/7.png",
-        "./images/form/8.png",
-        "./images/form/9.png",
-        "./images/form/10.png",
-        "./images/form/11.png",
-        "./images/form/12.png",
-        "./images/form/13.png",
-        "./images/form/14.png",
-        "./images/form/15.png",
-        "./images/form/16.png",
-        "./images/form/17.png",
-        "./images/form/18.png"
+        "/images/form/1.png",
+        "/images/form/2.png",
+        "/images/form/3.png",
+        "/images/form/4.png",
+        "/images/form/5.png",
+        "/images/form/6.png",
+        "/images/form/7.png",
+        "/images/form/8.png",
+        "/images/form/9.png",
+        "/images/form/10.png",
+        "/images/form/11.png",
+        "/images/form/12.png",
+        "/images/form/13.png",
+        "/images/form/14.png",
+        "/images/form/15.png",
+        "/images/form/16.png"
       ]
     },
     {
       "id": 3,
       "name": "Bluewaterlab.co (Next.js, Tailwind, Typescript)",
       "description": "",
-      "link": "",
+      "github": "https://github.com/liankip/bluewaterlabco",
       "demo": "https://bluewaterlab.co/",
-      "image": "./images/bluewaterlab/1.png",
+      "image": "/images/bluewaterlab/1.png",
       "images": [
-        "./images/bluewaterlab/1.png",
-        "./images/bluewaterlab/2.png",
-        "./images/bluewaterlab/3.png",
-        "./images/bluewaterlab/4.png",
-        "./images/bluewaterlab/5.png"
+        "/images/bluewaterlab/1.png",
+        "/images/bluewaterlab/2.png",
+        "/images/bluewaterlab/3.png",
+        "/images/bluewaterlab/4.png",
+        "/images/bluewaterlab/5.png"
       ]
     },
     {
       "id": 4,
       "name": "MZ Fashion (React Native, Firebase, Typescript)",
       "description": "",
-      "link": "https://github.com/liankip/mzfashion",
-      "demo": "",
-      "image": "./images/mzfashion/1.jpeg",
+      "github": "https://github.com/liankip/mzfashion",
+      "demo": "https://expo.dev/accounts/lionkip/projects/mzfashion/builds/d3d7a231-ae6d-40b2-8214-6974215a7fea",
+      "image": "/images/mzfashion/1.jpeg",
       "images": [
-        "./images/mzfashion/1.jpeg",
-        "./images/mzfashion/2.jpeg",
-        "./images/mzfashion/3.jpeg",
-        "./images/mzfashion/4.jpeg",
-        "./images/mzfashion/5.jpeg"
+        "/images/mzfashion/1.jpeg",
+        "/images/mzfashion/2.jpeg",
+        "/images/mzfashion/3.jpeg",
+        "/images/mzfashion/4.jpeg",
+        "/images/mzfashion/5.jpeg"
       ]
     },
     {
       "id": 5,
       "name": "API Dating (Golang, PostgresSQL, Fiber)",
       "description": "",
-      "link": "https://github.com/liankip/api-dating",
+      "github": "https://github.com/liankip/api-dating",
       "demo": "",
-      "image": "./images/dating/1.png",
+      "image": "/images/dating/1.png",
       "images": [
-        "./images/dating/1.png"
+        "/images/dating/1.png"
       ]
     },
     {
       "id": 6,
       "name": "Pizza Store (React.js, Redux, Tailwind)",
       "description": "",
-      "link": "https://github.com/liankip/pizza-store/",
+      "github": "https://github.com/liankip/pizza-store/",
       "demo": "https://pizza-store.simdigliandi.now.sh/",
-      "image": "./images/pizzastore/1.png",
+      "image": "/images/pizzastore/1.png",
       "images": [
-        "./images/pizzastore/1.png",
-        "./images/pizzastore/2.png",
-        "./images/pizzastore/3.png"
+        "/images/pizzastore/1.png",
+        "/images/pizzastore/2.png",
+        "/images/pizzastore/3.png"
       ]
     },
     {
       "id": 7,
       "name": "Rest API Funmobile (Express, Sequelize, SQL Server)",
       "description": "",
-      "link": "https://github.com/liankip/funmobile-apis/",
+      "github": "https://github.com/liankip/funmobile-apis/",
       "demo": "",
-      "image": "./images/funmobile/1.png",
+      "image": "/images/funmobile/1.png",
       "images": [
-        "./images/funmobile/1.png"
+        "/images/funmobile/1.png"
       ]
     },
     {
       "id": 8,
       "name": "Wallpaper Cart / Catalog (Vue.js, Tailwind)",
       "description": "",
-      "link": "https://github.com/liankip/wallpaper-cart",
+      "github": "https://github.com/liankip/wallpaper-cart",
       "demo": "https://wallpaper-cart.vercel.app/",
-      "image": "./images/wallpaper/1.png",
+      "image": "/images/wallpaper/1.png",
       "images": [
-        "./images/wallpaper/1.png",
-        "./images/wallpaper/2.png"
+        "/images/wallpaper/1.png",
+        "/images/wallpaper/2.png"
       ]
     }
   ]
