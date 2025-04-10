@@ -2,8 +2,8 @@
   "project": [
     {
       "id": 1,
-      "name": "SNE Fidelity (Laravel, Livewire, Bootstrap, MySQL)",
-      "description": "",
+      "name": "SNE Fidelity",
+      "description": "Laravel, Livewire, Bootstrap, MySQL",
       "github": "https://github.com/liankip/fidelity",
       "demo": "https://fidelity.satrianusa.group/",
       "image": "/images/fidelity/1.png",
@@ -30,8 +30,8 @@
     },
     {
       "id": 2,
-      "name": "Form Fidelity (Laravel, Livewire, TallStack UI, Tailwind, MySQL)",
-      "description": "",
+      "name": "Form Fidelity",
+      "description": "Laravel, Livewire, TallStack UI, Tailwind, MySQL",
       "github": "https://github.com/liankip/form-fidelity",
       "demo": "https://form.satrianusa.group/",
       "image": "/images/form/1.png",
@@ -56,8 +56,8 @@
     },
     {
       "id": 3,
-      "name": "Bluewaterlab.co (Next.js, Tailwind, Typescript)",
-      "description": "",
+      "name": "Bluewaterlab.co",
+      "description": "Next.js, Tailwind, Typescript",
       "github": "https://github.com/liankip/bluewaterlabco",
       "demo": "https://bluewaterlab.co/",
       "image": "/images/bluewaterlab/1.png",
@@ -71,8 +71,8 @@
     },
     {
       "id": 4,
-      "name": "MZ Fashion (React Native, Firebase, Typescript)",
-      "description": "",
+      "name": "MZ Fashion",
+      "description": "React Native, Firebase, Typescript",
       "github": "https://github.com/liankip/mzfashion",
       "demo": "https://expo.dev/accounts/lionkip/projects/mzfashion/builds/d3d7a231-ae6d-40b2-8214-6974215a7fea",
       "image": "/images/mzfashion/1.jpeg",
@@ -86,8 +86,8 @@
     },
     {
       "id": 5,
-      "name": "API Dating (Golang, PostgresSQL, Fiber)",
-      "description": "",
+      "name": "API Dating",
+      "description": "Golang, PostgresSQL, Fiber",
       "github": "https://github.com/liankip/api-dating",
       "demo": "",
       "image": "/images/dating/1.png",
@@ -97,8 +97,8 @@
     },
     {
       "id": 6,
-      "name": "Pizza Store (React.js, Redux, Tailwind)",
-      "description": "",
+      "name": "Pizza Store",
+      "description": "React.js, Redux, Tailwind",
       "github": "https://github.com/liankip/pizza-store/",
       "demo": "https://pizza-store.simdigliandi.now.sh/",
       "image": "/images/pizzastore/1.png",
@@ -110,8 +110,8 @@
     },
     {
       "id": 7,
-      "name": "Rest API Funmobile (Express, Sequelize, SQL Server)",
-      "description": "",
+      "name": "Rest API Funmobile",
+      "description": "Express, Sequelize, SQL Server",
       "github": "https://github.com/liankip/funmobile-apis/",
       "demo": "",
       "image": "/images/funmobile/1.png",
@@ -121,8 +121,8 @@
     },
     {
       "id": 8,
-      "name": "Wallpaper Cart / Catalog (Vue.js, Tailwind)",
-      "description": "",
+      "name": "Wallpaper Cart / Catalog",
+      "description": "Vue.js, Tailwind",
       "github": "https://github.com/liankip/wallpaper-cart",
       "demo": "https://wallpaper-cart.vercel.app/",
       "image": "/images/wallpaper/1.png",
